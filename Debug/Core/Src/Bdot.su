@@ -1,0 +1,7 @@
+Bdot.c:21:6:CalAttitudeError	40	static
+Bdot.c:43:6:MTQ_Enable	8	static
+Bdot.c:47:6:MTQ_Disable	8	static
+Bdot.c:51:6:takedecision	24	static
+Bdot.c:77:6:CalTorque	80	static
+Bdot.c:144:6:SET_PWM_DUTY_CYCLE_Y	16	static
+Bdot.c:152:6:SET_PWM_DUTY_CYCLE_Z	16	static
